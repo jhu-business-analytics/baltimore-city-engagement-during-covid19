@@ -36,7 +36,7 @@ And require the following Python packages for our analysis:
 
 ### Data Answer
 
-The steps for our analysis are available in this GitBook tutorial, and you can use this pre-commented starter notebook or this Google Colab notebook to follow along with the tutorial, or copy and paste the code from the codeblocks \(dark blue text boxes\) in the tutorial to create these and other data visualizations:
+The steps for our analysis are available in this GitBook tutorial, and you can use [this pre-commented starter notebook](https://github.com/jhu-business-analytics/baltimore-city-engagement-during-covid19/blob/master/2020-04-29-civic-engagement-311-covid19-gitbooktutorial-STARTER-melanieshimano.ipynb) or this Google Colab notebook to follow along with the tutorial, or copy and paste the code from the codeblocks \(dark blue text boxes\) in the tutorial to create these and other data visualizations:
 
 ![](.gitbook/assets/311call_votingprecinct_animation.gif)
 
