@@ -156,6 +156,8 @@ This creates a new geodataframe \(`gdf_311_inprecincts =`\) that merges/spatiall
 
 ![](.gitbook/assets/merged-gdf.png)
 
+#### Aggregate Count of 311 Calls Per Voting Precinct
+
 The voting district shape jurisdiction, name, number, and ID values have merged onto our 311 data. Now, we can aggregate the 311 data to count the number of 311 Calls in each voting district. We want to count the number of 311 Requests in each voting precinct in each year:
 
 ```python
