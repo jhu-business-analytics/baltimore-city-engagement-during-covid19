@@ -43,10 +43,12 @@ gdf_md = gpd.read_file("md_2016_FEST/md_2016_w_ushouse.shp")
 ```
 
 {% hint style="info" %}
-If you're using Google Colab, you'll need to upload all seven files from the unzipped file under your files tab.  
+If you're using Google Colab, you'll need to upload all seven files from the unzipped file under your files tab, so your uploaded files should look like the image below:
 {% endhint %}
 
-Note that our file pathname includes the file name \(`md_2016_FEST/`\) as well as the shapefile name. We only need to import the `.shp` file, but this import also accesses information from the other 6 files, so we need to make sure all of these are included in our working file.This is similar to how we import csv and Excel workbook data into our notebooks, but here, we're reading in the shapefile data. If we preview the geodataframe, we see a large dataframe: 
+![](.gitbook/assets/google-colab-files.png)
+
+Note that our file pathname includes the file name \(`md_2016_FEST/`\) as well as the shapefile name. We only need to import the `.shp` file into our notebook, but this import also accesses information from the other 6 files, so we need to make sure all of these are included in our working file.This is similar to how we import csv and Excel workbook data into our notebooks, but here, we're reading in the shapefile data. If we preview the geodataframe, we see a large dataframe: 
 
 ![](.gitbook/assets/gdf-initial.png)
 
