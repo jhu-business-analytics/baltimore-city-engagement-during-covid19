@@ -101,6 +101,20 @@ We can also save this animation as an html file with:
 choropleth_311_march.write_html("bmore_311calls_voting_district.html")
 ```
 
+{% hint style="info" %}
+If you're using Google Colab, you'll need to import the Google Colab library to download files from the notebook and then download the files with: 
+
+```text
+# import library to download files from colab
+from google.colab import files
+```
+
+```text
+# download html file
+files.download("bmore_311calls_voting_district.html")
+```
+{% endhint %}
+
 ### Data Insights
 
 The choropleth map with plotly express allows us to see how the number of 311 Requests per voting districts has changed over time, and it allows us to get more explicit information from each voting district in each year with hover data: 
