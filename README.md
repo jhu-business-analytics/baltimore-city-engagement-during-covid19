@@ -40,7 +40,9 @@ The steps for our analysis are available in [this GitBook tutorial](https://mela
 
 ![](.gitbook/assets/311call_votingprecinct_animation.gif)
 
-You can view final notebook from the tutorial [here](https://github.com/jhu-business-analytics/baltimore-city-engagement-during-covid19/blob/master/2020-04-29-civic-engagement-311-covid19-gitbooktutorial-melanieshimano.ipynb).
+You can view final Jupyter notebook from the tutorial [here](https://github.com/jhu-business-analytics/baltimore-city-engagement-during-covid19/blob/master/2020-04-29-civic-engagement-311-covid19-gitbooktutorial-melanieshimano.ipynb), or you can view a final Google Colaboratory notebook from the tutorial here: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/18J1hC3L-qdFbteO5GYK3ehKCwkhYKMMZ/view?usp=sharing)
+
+Note that you'll need to upload all of the linked datasets and shapefiles locally in Google Colaboratory before executing the code.
 
 ### Business Answer
 
